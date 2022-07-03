@@ -5,7 +5,7 @@ namespace ConsoleApp1
     class Program
     {
        
-       
+     
         static int sum(int x,int y)
         {
             return x + y;
@@ -14,6 +14,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine(k);
         }
+       
         static void Main(string[] args)
         {
             /*       int x, y;
@@ -104,8 +105,63 @@ namespace ConsoleApp1
 
             // three_digit_sum_of_cubes.calculate();
 
-            Myname.o_z_c_a_n();
+            //Myname.o_z_c_a_n();
 
+            char ftemp;
+            char ltemp;
+            float say = 0;
+            while (true)
+            {
+                Console.WriteLine("Enter the temperature (number please!)");
+                try
+                {
+                    say = float.Parse(Console.ReadLine());
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine(ex.Message);
+                    continue;
+
+                }
+
+                while (true)
+                {
+                    Console.WriteLine("c/k/f");
+                    ftemp = Console.ReadLine()[0];
+
+                    if (ftemp == 'c' || ftemp == 'f' || ftemp == 'k')
+                    {
+                        break;
+                    }
+                    continue;
+                }
+                while (true)
+                {
+                    Console.WriteLine("c/k/f");
+                    ltemp = Console.ReadLine()[0];
+
+                    if (ltemp == 'c' || ltemp == 'f' || ltemp == 'k')
+                    {
+                        break;
+                    }
+                    continue;
+                }
+
+                calculatetemperature calculate = new calculatetemperature(say, ftemp);
+                switch (ltemp)
+                {
+                    case 'c':
+                        Console.WriteLine(say + " " + ftemp + " to " + calculate.toCelsius() + " " + ltemp);
+                        break;
+                    case 'k':
+                        Console.WriteLine(say + " " + ftemp + " to " + calculate.toKelvin() + " " + ltemp);
+                        break;
+                    case 'f':
+                        Console.WriteLine(say + " " + ftemp + " to " + calculate.toFahrenheight() + " " + ltemp);
+                        break;
+                }
+            }
         }
     }
 }
