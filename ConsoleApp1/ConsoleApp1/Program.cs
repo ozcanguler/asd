@@ -165,11 +165,22 @@ namespace ConsoleApp1
             }
             */
 
-
+            /*
             SkylineFormat skyline = new SkylineFormat();
 
             skyline.showFirstName();
             skyline.UpperAndLower();
+            */
+
+            /*
+            reverseString reverse = new reverseString();
+            reverse.showReverse();
+            */
+
+            swapLetters swap = new swapLetters();
+            swap.convert();
+            swap.listCharacter();
+           
         }
     }
 }
