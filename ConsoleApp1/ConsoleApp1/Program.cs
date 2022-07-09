@@ -107,6 +107,7 @@ namespace ConsoleApp1
 
             //Myname.o_z_c_a_n();
 
+            /*
             char ftemp;
             char ltemp;
             float say = 0;
@@ -162,6 +163,13 @@ namespace ConsoleApp1
                         break;
                 }
             }
+            */
+
+
+            SkylineFormat skyline = new SkylineFormat();
+
+            skyline.showFirstName();
+            skyline.UpperAndLower();
         }
     }
 }
