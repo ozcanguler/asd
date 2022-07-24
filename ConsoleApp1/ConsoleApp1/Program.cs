@@ -177,10 +177,16 @@ namespace ConsoleApp1
             reverse.showReverse();
             */
 
-            swapLetters swap = new swapLetters();
-            swap.convert();
-            swap.listCharacter();
-           
+            //swapLetters swap = new swapLetters();
+            //swap.convert();
+            //swap.listCharacter();
+
+            //BinarySearch.searc(BinarySearch.numbers, BinarySearch.numbers[3], 0, BinarySearch.len);
+
+            //Recursion.CountToOne.number();
+            //Recursion.Factorial.EnterNum();
+            Recursion.GreatestCommonDivisor.enterNumbers();
+
         }
     }
 }
