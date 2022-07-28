@@ -185,7 +185,9 @@ namespace ConsoleApp1
 
             //Recursion.CountToOne.number();
             //Recursion.Factorial.EnterNum();
-            Recursion.GreatestCommonDivisor.enterNumbers();
+            //Recursion.GreatestCommonDivisor.enterNumbers();
+
+            KnightsTour.solveKT();
 
         }
     }
