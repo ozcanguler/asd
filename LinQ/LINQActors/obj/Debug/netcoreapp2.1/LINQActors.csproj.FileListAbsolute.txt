@@ -1,0 +1,11 @@
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\bin\Debug\netcoreapp2.1\LINQActors.deps.json
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\bin\Debug\netcoreapp2.1\LINQActors.runtimeconfig.json
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\bin\Debug\netcoreapp2.1\LINQActors.runtimeconfig.dev.json
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\bin\Debug\netcoreapp2.1\LINQActors.dll
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.AssemblyInfoInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.AssemblyInfo.cs
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\bin\Debug\netcoreapp2.1\LINQActors.pdb
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.dll
+C:\Users\Garavel\Desktop\c#MyName\LinQ\LINQActors\obj\Debug\netcoreapp2.1\LINQActors.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ", "LinQ\LinQ.csproj", "{B501ABA1-B70E-4E98-B717-CC0440054564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQActors", "LINQActors\LINQActors.csproj", "{6685F7B3-AE4F-4144-A2C1-215D8F493C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B501ABA1-B70E-4E98-B717-CC0440054564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B501ABA1-B70E-4E98-B717-CC0440054564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B501ABA1-B70E-4E98-B717-CC0440054564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B501ABA1-B70E-4E98-B717-CC0440054564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6685F7B3-AE4F-4144-A2C1-215D8F493C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6685F7B3-AE4F-4144-A2C1-215D8F493C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6685F7B3-AE4F-4144-A2C1-215D8F493C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6685F7B3-AE4F-4144-A2C1-215D8F493C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF225D6-40AD-4ACE-81A6-BA4F09D5CE47}
+	EndGlobalSection
+EndGlobal
