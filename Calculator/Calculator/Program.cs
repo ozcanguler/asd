@@ -109,7 +109,7 @@ namespace Calculator
             {
                 Console.WriteLine("If you want to finish the calculation, press f . Otherwise press something else.");
                 choise = Convert.ToChar(Console.ReadLine());
-                if (choise == 'f') { Console.WriteLine("İşlem sonlandı"); break; }
+                if (choise == 'f') { Console.WriteLine("transaction terminated"); break; }
                 else
                 {
                     Console.WriteLine("second number");
