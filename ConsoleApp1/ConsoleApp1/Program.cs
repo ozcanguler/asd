@@ -187,8 +187,21 @@ namespace ConsoleApp1
             //Recursion.Factorial.EnterNum();
             //Recursion.GreatestCommonDivisor.enterNumbers();
 
-            KnightsTour.solveKT();
+            //KnightsTour.solveKT();
 
+
+            //Console.WriteLine(centuryFromYear.centuryFrom_Year(17));
+
+            //centuryFromYear.multiplyNumber.entertTheNumber();
+
+            //centuryFromYear.substring.first_last("Fener");
+            //centuryFromYear.longestWord.longest();
+
+            //centuryFromYear.test.abs();
+
+            //primeNumber.yaz();
+
+            primeNumber.flo();
         }
     }
 }
